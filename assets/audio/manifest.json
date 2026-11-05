@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ui_tap",
+    "kind": "sfx",
+    "file": "sfx/ui_tap.wav",
+    "loop": false,
+    "seconds": 0.09
+  },
+  {
+    "id": "ui_back",
+    "kind": "sfx",
+    "file": "sfx/ui_back.wav",
+    "loop": false,
+    "seconds": 0.1
+  },
+  {
+    "id": "ui_toggle_on",
+    "kind": "sfx",
+    "file": "sfx/ui_toggle_on.wav",
+    "loop": false,
+    "seconds": 0.16
+  },
+  {
+    "id": "ui_toggle_off",
+    "kind": "sfx",
+    "file": "sfx/ui_toggle_off.wav",
+    "loop": false,
+    "seconds": 0.16
+  },
+  {
+    "id": "pop_small",
+    "kind": "sfx",
+    "file": "sfx/pop_small.wav",
+    "loop": false,
+    "seconds": 0.22
+  },
+  {
+    "id": "pop_medium",
+    "kind": "sfx",
+    "file": "sfx/pop_medium.wav",
+    "loop": false,
+    "seconds": 0.26
+  },
+  {
+    "id": "pop_large",
+    "kind": "sfx",
+    "file": "sfx/pop_large.wav",
+    "loop": false,
+    "seconds": 0.32
+  },
+  {
+    "id": "wipe_loop",
+    "kind": "sfx",
+    "file": "sfx/wipe_loop.wav",
+    "loop": true,
+    "seconds": 3.2
+  },
+  {
+    "id": "wipe_squeak_1",
+    "kind": "sfx",
+    "file": "sfx/wipe_squeak_1.wav",
+    "loop": false,
+    "seconds": 0.14
+  },
+  {
+    "id": "wipe_squeak_2",
+    "kind": "sfx",
+    "file": "sfx/wipe_squeak_2.wav",
+    "loop": false,
+    "seconds": 0.14
+  },
+  {
+    "id": "wipe_squeak_3",
+    "kind": "sfx",
+    "file": "sfx/wipe_squeak_3.wav",
+    "loop": false,
+    "seconds": 0.14
+  },
+  {
+    "id": "sand_loop",
+    "kind": "sfx",
+    "file": "sfx/sand_loop.wav",
+    "loop": true,
+    "seconds": 3.2
+  },
+  {
+    "id": "stone_place",
+    "kind": "sfx",
+    "file": "sfx/stone_place.wav",
+    "loop": false,
+    "seconds": 0.5
+  },
+  {
+    "id": "pour_loop",
+    "kind": "sfx",
+    "file": "sfx/pour_loop.wav",
+    "loop": true,
+    "seconds": 2.3
+  },
+  {
+    "id": "select_tube",
+    "kind": "sfx",
+    "file": "sfx/select_tube.wav",
+    "loop": false,
+    "seconds": 0.25
+  },
+  {
+    "id": "tube_complete_0",
+    "kind": "sfx",
+    "file": "sfx/tube_complete_0.wav",
+    "loop": false,
+    "seconds": 3.2
+  },
+  {
+    "id": "tube_complete_1",
+    "kind": "sfx",
+    "file": "sfx/tube_complete_1.wav",
+    "loop": false,
+    "seconds": 3.2
+  },
+  {
+    "id": "tube_complete_2",
+    "kind": "sfx",
+    "file": "sfx/tube_complete_2.wav",
+    "loop": false,
+    "seconds": 3.2
+  },
+  {
+    "id": "tube_complete_3",
+    "kind": "sfx",
+    "file": "sfx/tube_complete_3.wav",
+    "loop": false,
+    "seconds": 3.2
+  },
+  {
+    "id": "tube_complete_4",
+    "kind": "sfx",
+    "file": "sfx/tube_complete_4.wav",
+    "loop": false,
+    "seconds": 3.2
+  },
+  {
+    "id": "tube_complete_5",
+    "kind": "sfx",
+    "file": "sfx/tube_complete_5.wav",
+    "loop": false,
+    "seconds": 3.2
+  },
+  {
+    "id": "level_complete",
+    "kind": "sfx",
+    "file": "sfx/level_complete.wav",
+    "loop": false,
+    "seconds": 6.2
+  },
+  {
+    "id": "complete_soft",
+    "kind": "sfx",
+    "file": "sfx/complete_soft.wav",
+    "loop": false,
+    "seconds": 5.0
+  },
+  {
+    "id": "bloom",
+    "kind": "sfx",
+    "file": "sfx/bloom.wav",
+    "loop": false,
+    "seconds": 5.0
+  },
+  {
+    "id": "water_drop",
+    "kind": "sfx",
+    "file": "sfx/water_drop.wav",
+    "loop": false,
+    "seconds": 0.2
+  },
+  {
+    "id": "sprinkle_loop",
+    "kind": "sfx",
+    "file": "sfx/sprinkle_loop.wav",
+    "loop": true,
+    "seconds": 2.1
+  },
+  {
+    "id": "rain_loop",
+    "kind": "sfx",
+    "file": "sfx/rain_loop.wav",
+    "loop": true,
+    "seconds": 22.0
+  },
+  {
+    "id": "wind_chime_0",
+    "kind": "sfx",
+    "file": "sfx/wind_chime_0.wav",
+    "loop": false,
+    "seconds": 5.5
+  },
+  {
+    "id": "wind_chime_1",
+    "kind": "sfx",
+    "file": "sfx/wind_chime_1.wav",
+    "loop": false,
+    "seconds": 5.5
+  },
+  {
+    "id": "wind_chime_2",
+    "kind": "sfx",
+    "file": "sfx/wind_chime_2.wav",
+    "loop": false,
+    "seconds": 5.5
+  },
+  {
+    "id": "wind_chime_3",
+    "kind": "sfx",
+    "file": "sfx/wind_chime_3.wav",
+    "loop": false,
+    "seconds": 5.5
+  },
+  {
+    "id": "calm",
+    "kind": "music",
+    "file": "music/calm.flac",
+    "loop": true,
+    "seconds": 168.0
+  }
+]

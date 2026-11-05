@@ -1,0 +1,32 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "calmcorner-web",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "tools/serve_web.py",
+        "8765"
+      ],
+      "port": 8765
+    },
+    {
+      "name": "calmcorner-web-fresh",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "tools/serve_web.py",
+        "8766"
+      ],
+      "port": 8766
+    },
+    {
+      "name": "calmcorner-web-nocache",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "tools/serve_web.py",
+        "8767"
+      ],
+      "port": 8767
+    }
+  ]
+}
