@@ -5,8 +5,8 @@ class AppBrand {
   static const bundleId = 'in.asynk.kalmcorner';
   static const playStoreUrl =
       'https://play.google.com/store/apps/details?id=in.asynk.kalmcorner';
-  static const appStoreUrl = 'https://apps.apple.com/app/id000000000';
-  static const privacyPolicyUrl = 'https://example.com/privacy';
+  static const appStoreUrl = 'https://apps.apple.com/app/id6835376733';
+  static const privacyPolicyUrl = 'https://kalmcorner.asynk.in/privacy';
   static const supportEmail = 'support@example.com';
 
   // Feature flags
